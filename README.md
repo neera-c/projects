@@ -1,6 +1,6 @@
 ## Neera's Projects
 
-title: neera | projects
+
 
 <!-------
 You can use the [editor on GitHub](https://github.com/neera-c/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
